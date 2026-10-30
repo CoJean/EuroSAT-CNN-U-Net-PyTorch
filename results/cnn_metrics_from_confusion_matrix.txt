@@ -1,0 +1,7 @@
+CNN metrics recalculated from the supplied confusion-matrix counts (4050 test examples):
+Accuracy: 91.95%
+Macro precision: 91.70%
+Macro recall: 92.08%
+Macro F1-score: 91.79%
+
+Note: these metrics are calculated from the supplied confusion matrix, not from logs.txt.
